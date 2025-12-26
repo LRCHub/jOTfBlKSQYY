@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ETA",
+  "base_artist": "NewJeans",
+  "createdAt": "2025-12-26T12:52:27.387397Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ETA",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_ETA_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Il mondo non ha eta'",
+      "artist": "Enrico Ruggeri",
+      "has_synced": false,
+      "path": "select/02_Il_mondo_non_ha_eta'_Enrico_Ruggeri.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ETA",
+      "artist": "Aries",
+      "has_synced": true,
+      "path": "select/03_ETA_Aries.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ETA",
+      "artist": "Dr. Dre feat. Snoop Dogg, Busta Rhymes & Anderson .Paak",
+      "has_synced": true,
+      "path": "select/04_ETA_Dr._Dre_feat._Snoop_Dogg,_Busta_Rhymes_&_Anderson_.Paak.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ETA",
+      "artist": "Dr. Dre feat. Snoop Dogg, Busta Rhymes and Anderson .Paak",
+      "has_synced": true,
+      "path": "select/05_ETA_Dr._Dre_feat._Snoop_Dogg,_Busta_Rhymes_and_Anderson_.Paak.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Quelli Che Non Hanno Età - Gabry Ponte Power Cut",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/06_Quelli_Che_Non_Hanno_Età_-_Gabry_Ponte_Power_Cut_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Quelli Che Non Hanno Età (Gabry Ponte Power Cut)",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/07_Quelli_Che_Non_Hanno_Età_(Gabry_Ponte_Power_Cut)_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Quelli Che Non Hanno Età (Gabry Ponte Power Cut)",
+      "artist": "Eiffel 65",
+      "has_synced": false,
+      "path": "select/08_Quelli_Che_Non_Hanno_Età_(Gabry_Ponte_Power_Cut)_Eiffel_65.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Alla mia età",
+      "artist": "Rita Pavone",
+      "has_synced": false,
+      "path": "select/09_Alla_mia_età_Rita_Pavone.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gente D'ogni Età",
+      "artist": "Matia Bazar",
+      "has_synced": false,
+      "path": "select/10_Gente_D'ogni_Età_Matia_Bazar.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Una Nueva Edad (Una Nuova Età)",
+      "artist": "Eros Ramazzotti",
+      "has_synced": false,
+      "path": "select/11_Una_Nueva_Edad_(Una_Nuova_Età)_Eros_Ramazzotti.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Una Nuova Età",
+      "artist": "Eros Ramazzotti",
+      "has_synced": true,
+      "path": "select/12_Una_Nuova_Età_Eros_Ramazzotti.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Alla Mia Età",
+      "artist": "Tiziano Ferro",
+      "has_synced": true,
+      "path": "select/13_Alla_Mia_Età_Tiziano_Ferro.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Innamorarsi alla mia età (Innamorato alla mia età)",
+      "artist": "Julio Iglesias",
+      "has_synced": false,
+      "path": "select/14_Innamorarsi_alla_mia_età_(Innamorato_alla_mia_età)_Julio_Iglesias.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ETA",
+      "artist": "NewJeans",
+      "has_synced": false,
+      "path": "select/pl_01_ETA_NewJeans.txt"
+    }
+  ]
+}
